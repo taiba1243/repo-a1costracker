@@ -7,7 +7,7 @@ One script sends the same prompt to two providers, one of them free. For each, p
 ## How To Run It:
 
 * ***clone the repository.***
-* ***install required dependencies. (google-genai, groq).***
+* ***install required dependencies. (google-genai, groq, dotenv).***
 * ***add API keys in .env file.***
 * ***run the scrip.***
 
